@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="day29">
+    <output-path>$PROJECT_DIR$/out/artifacts/day29</output-path>
+    <root id="archive" name="day29.war">
+      <element id="javaee-facet-resources" facet="day29/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="day29" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
